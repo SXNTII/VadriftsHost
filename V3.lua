@@ -1,1 +1,0 @@
-print("UR BLACK NIGGER")
