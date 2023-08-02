@@ -1,1 +1,0 @@
-print("ur gay use the new loadstri")
